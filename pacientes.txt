@@ -1,0 +1,6 @@
+Nombre Edad Activo
+Daniel 22 Si
+Ana 32 Si
+Enrique 31 No
+Ismael 29 Si
+Isabel 38 No
